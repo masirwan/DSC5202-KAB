@@ -13,7 +13,10 @@ MicroStrategy menjadi salah satu Business Intelligence Platform skala Enterprise
 
 
 MicroStrategy dapat terkoneksi dengan berbagai data source mulai dari RDBMS, Big Data, OLAP, ERP, CRM, Local files, Cloud Data, Social Media dan juga platform BI yang lain seperti Power BI, Tableau.
- 
+
+![image](https://user-images.githubusercontent.com/28435764/143301489-f6814ecd-ef05-4d86-a18c-e3793f0df0d0.png)
+
+![image](https://user-images.githubusercontent.com/28435764/143301519-053ac38c-0b1a-4ce0-9560-79ac4d3dcc92.png)
 
 
 MicroStrategy HyperIntelligence: Zero-Click Analytics adalah augmented intelligence yang berbentuk small visualization card untuk memberikan informasi secara cepat hanya dengan hover salah satu kata yang telah ditentukan sebelumnya.
@@ -21,7 +24,11 @@ MicroStrategy HyperIntelligence: Zero-Click Analytics adalah augmented intellig
 Saat ini, Microstrategy menawarkan fitur baru yaitu Freeform Layout Dossier dan Platform Analytics.
 a.Freeform Layout Dossier memberikan kebebasan untuk Business User dalam mendesain Dossier dengan menambahkan background yang dapat mempercantik tampilan visualisasi yang dibuat.
 
+![image](https://user-images.githubusercontent.com/28435764/143301614-07dcc19b-0e06-43ae-a491-f35a4761c5d0.png)
+
+
 b.Platform Analytics adalah salah satu monitoring tools yang dapat digunakan oleh Admin untuk menganalisa user activity, subscription analysis, project overview, error analysis, cube & cache monitoring dan lain sebagainya.
 
- 
+![image](https://user-images.githubusercontent.com/28435764/143301624-807c40fc-dbc3-4388-bb2b-8b8d089247f6.png)
+
 Contoh menggunakan data yang berasal dari ScienceDirect Report 2021 yang diambil selama 1 tahun, dengan jumlah 12880 baris. Saat ini masih terus belajar cara menggunakan aplikasi MikroStrategy ini. Terima kasih
