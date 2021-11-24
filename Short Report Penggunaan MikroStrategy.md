@@ -1,4 +1,5 @@
 Short Report Penggunaan MikroStrategy
+
 Oleh Mas Irwansyah Putra (205076002)
 
 
